@@ -24,7 +24,7 @@ All images, logos, and branding are **custom or royalty-free**.
 ---
 
 ## 🚀 Live Demo
-👉 [View Live Project]()  
+👉 [View Live Project]( https://ritik65124.github.io/myflix-clone/)  
 
 ---
 
@@ -36,3 +36,4 @@ All images, logos, and branding are **custom or royalty-free**.
 ## 📢 Notes
 - The project is **inspired by Netflix UI** but uses **custom branding**.  
 - Safe to showcase in portfolios, GitHub, or interviews.  
+
