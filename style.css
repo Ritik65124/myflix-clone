@@ -293,13 +293,13 @@ footer .question {
     }
 
     .secImg img {
-        width: 305px;
+        width: 295px;
 
     }
 
     .secImg video {
 
-        width: 305px;
+        width: 295px;
     }
 
     .hero> :nth-child(1) {
@@ -356,4 +356,5 @@ footer .question {
     .main input {
         padding: 18px 5px 16px 14px;
     }
+
 }
